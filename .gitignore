@@ -1,0 +1,8 @@
+.vscode/
+lib/my/libmy.a
+.clang-format
+compile_commands.json
+.cache/
+test.c
+mysegfault
+a.out
